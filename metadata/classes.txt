@@ -1,0 +1,53 @@
+0	Angry
+1	Bag
+2	Bathroom
+3	Book
+4	Brother
+5	Come
+6	Down
+7	Drink
+8	Eat [VEB]/Food
+9	Evening
+10	Family
+11	Far
+12	Father
+13	Friend
+14	Go
+15	Good
+16	Bad
+17	Happy
+18	Hello
+19	Help [VEB]
+20	Home/House
+21	Hospital
+22	How
+23	Left (Side)/Left (Hand)
+24	Money
+25	Morning
+26	Mother
+27	Near
+28	Night
+29	No
+30	Now
+31	Office
+32	Please
+33	Right
+34	Sad
+35	School
+36	Shop
+37	Sister
+38	Smart Phone
+39	Sorry
+40	Thank You
+41	Today
+42	Tomorrow
+43	Up
+44	Water
+45	Welcome
+46	What
+47	When
+48	Where
+49	Who
+50	Why
+51	Yes
+52	Yesterday
