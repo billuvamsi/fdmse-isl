@@ -1,0 +1,53 @@
+Angry
+Bag
+Bathroom
+Book
+Brother
+Come
+Down
+Drink
+Eat [VEB]/Food
+Evening
+Family
+Far
+Father
+Friend
+Go
+Good
+Bad
+Happy
+Hello
+Help [VEB]
+Home/House
+Hospital
+How
+Left (Side)/Left (Hand)
+Money
+Morning
+Mother
+Near
+Night
+No
+Now
+Office
+Please
+Right
+Sad
+School
+Shop
+Sister
+Smart Phone
+Sorry
+Thank You
+Today
+Tomorrow
+Up
+Water
+Welcome
+What
+When
+Where
+Who
+Why
+Yes
+Yesterday
