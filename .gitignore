@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Dataset / large artifacts
+FDMSE-ISL/
+data/
+data_meta/
+*.mp4
+*.avi
+*.mov
+*.npy
+*.npz
+*.pth
+*.pt
+
+# Generated experiment outputs
+checkpoints/
+landmarks/
+logs/
+*.log
